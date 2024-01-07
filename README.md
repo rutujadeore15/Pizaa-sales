@@ -4,9 +4,9 @@ Whether you are a customer looking to place an order or a developer interested i
 
 Our pizzas are made with the finest ingredients and are available in a variety of flavors and toppings to suit every palate.
 From classic Margherita to spicy Pepperoni, we have something for everyone. Our pizza sales API allows you to easily integrate our menu and ordering 
-![Uploading 1000_F_553645455_C9DyxAtHba22BYRvzkOFe4kMxIs0pTf9.jpg…]()
 
 
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fe1.pxfuel.com%2Fdesktop-wallpaper%2F906%2F785%2Fdesktop-wallpaper-cartoon-pizza-clipart-cartoon-pizza.jpg&tbnid=ByhII_aUIdmZRM&vet=10CJsBEDMojgJqFwoTCMjV3LCYyoMDFQAAAAAdAAAAABAD..i&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dcartoon%2Bpizza%2Bclipart&docid=WqvbYq4D4E7OhM&w=850&h=794&q=pizza%20images%20cartoon&ved=0CJsBEDMojgJqFwoTCMjV3LCYyoMDFQAAAAAdAAAAABAD
 
 
 
