@@ -4,15 +4,13 @@ Whether you are a customer looking to place an order or a developer interested i
 
 Our pizzas are made with the finest ingredients and are available in a variety of flavors and toppings to suit every palate.
 From classic Margherita to spicy Pepperoni, we have something for everyone. Our pizza sales API allows you to easily integrate our menu and ordering 
-
-
-
-
-
-
-
-
 ![Uploading 1000_F_553645455_C9DyxAtHba22BYRvzkOFe4kMxIs0pTf9.jpg…]()
+
+
+
+
+
+
 
 
 
