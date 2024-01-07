@@ -1,5 +1,17 @@
 # Pizaa-sales
 Welcome to our pizza sales repository on GitHub! Here you will find all the information you need about our delicious and mouth-watering pizzas.
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://c8.alamy.com/comp/2F4HH0P/cute-cartoon-italian-chef-holding-pizza-funny-restaurant-character-vector-clip-art-illustration-2F4HH0P.jpg" align="right"alt="Cartoon Italian Chef Holding Pizza" style="width: 300px; height: auto;">
+    </div>
+</body>
+</html>
+
 Whether you are a customer looking to place an order or a developer interested in our pizza sales API, you have come to the right place.
 
 Our pizzas are made with the finest ingredients and are available in a variety of flavors and toppings to suit every palate.
