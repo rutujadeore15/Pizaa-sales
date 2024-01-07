@@ -6,6 +6,12 @@ Our pizzas are made with the finest ingredients and are available in a variety o
 From classic Margherita to spicy Pepperoni, we have something for everyone. Our pizza sales API allows you to easily integrate our menu and ordering 
 
 
+
+
+
+
+
+
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0fw-O_QITKaW-0IeXVj82UGt_oGw9y9pJA&usqp=CAU
 
 
